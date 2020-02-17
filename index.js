@@ -1,5 +1,5 @@
 function mySum(n) {
-    var total=0;
+    let total=0;
            for (let myNumber=1; myNumber<=n; myNumber++){
                total += myNumber;
      }
